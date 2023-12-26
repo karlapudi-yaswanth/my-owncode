@@ -1,0 +1,26 @@
+.items{
+    width:auto;
+    height: auto;
+    border-radius: 12px;
+    background-color: rgb(160, 137, 137);
+}
+.image{
+    text-align: center;
+    
+}
+.name{
+    text-align: center;
+    color: rgb(170, 25, 25);
+    font-weight: 500;
+    font-size: 40px;
+}
+.price{
+    text-align: center;
+    color: rgb(170, 25, 25);
+    font-weight: 500;
+    font-size: 40px;
+
+}
+
+
+
